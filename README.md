@@ -9,14 +9,14 @@
 >
 > **By [Orkid Labs](https://www.orkidlabs.com)** — privacy-first crypto engineering
 
-Horizen adaptation of [zk-age](https://github.com/jjcav84/zk-age) —
+Horizen adaptation of [zk-age](https://github.com/orkid-labs/zk-age) —
 replaces zkVerify submission with ZEN token staking and
-[ZenKinetic](https://github.com/jjcav84/zenkinetic) privacy gate
+[ZenKinetic](https://github.com/orkid-labs/zenkinetic) privacy gate
 integration.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-a78bfa.svg)](LICENSE)
 [![Horizen](https://img.shields.io/badge/Horizen-Base%20L3-ff6b35.svg)](https://horizen.org)
-[![negentropy](https://img.shields.io/badge/powered%20by-negentropy-a78bfa.svg)](https://github.com/jjcav84/negentropy)
+[![negentropy](https://img.shields.io/badge/powered%20by-negentropy-a78bfa.svg)](https://github.com/orkid-labs/negentropy)
 
 ## How it works
 
@@ -60,7 +60,7 @@ horizen-age
 
 ## Origin
 
-This is the Horizen-native adaptation of [zk-age](https://github.com/jjcav84/zk-age).
+This is the Horizen-native adaptation of [zk-age](https://github.com/orkid-labs/zk-age).
 The ZK circuit and proof generation are the same; the chain integration
 changes from zkVerify to Horizen Base L3 with ZEN staking and ZenKinetic
 privacy gating.
@@ -69,7 +69,7 @@ privacy gating.
 
 ### Ecosystem value proposition
 
-horizen-age brings privacy-preserving age verification to Horizen Base L3. This is the Horizen-native adaptation of [zk-age](https://github.com/jjcav84/zk-age) — an existing, working project migrating to Horizen infrastructure. The ZK circuit stays the same; the chain integration changes from zkVerify to Horizen Base L3 with ZEN staking and ZenKinetic privacy gating.
+horizen-age brings privacy-preserving age verification to Horizen Base L3. This is the Horizen-native adaptation of [zk-age](https://github.com/orkid-labs/zk-age) — an existing, working project migrating to Horizen infrastructure. The ZK circuit stays the same; the chain integration changes from zkVerify to Horizen Base L3 with ZEN staking and ZenKinetic privacy gating.
 
 ### Milestone roadmap
 
@@ -105,11 +105,11 @@ Progressive achievement over 120 days, following Thrive's Horizen Boost Program 
 
 Part of the negentropy-powered privacy stack for Horizen:
 
-- [negentropy](https://github.com/jjcav84/negentropy) — shared physics engine
-- [zenkinetic](https://github.com/jjcav84/zenkinetic) — thermodynamic privacy gate
-- [horizen-age](https://github.com/jjcav84/horizen-age) — **this repo**
-- [horizen-attest](https://github.com/jjcav84/horizen-attest) — ZK attestations
-- [horizen-ballot](https://github.com/jjcav84/horizen-ballot) — anonymous voting
+- [negentropy](https://github.com/orkid-labs/negentropy) — shared physics engine
+- [zenkinetic](https://github.com/orkid-labs/zenkinetic) — thermodynamic privacy gate
+- [horizen-age](https://github.com/orkid-labs/horizen-age) — **this repo**
+- [horizen-attest](https://github.com/orkid-labs/horizen-attest) — ZK attestations
+- [horizen-ballot](https://github.com/orkid-labs/horizen-ballot) — anonymous voting
 
 ## About
 

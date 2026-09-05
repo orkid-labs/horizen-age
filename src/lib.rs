@@ -1,6 +1,6 @@
 //! # horizen-age — Privacy-Preserving Age Verification on Horizen Base L3
 //!
-//! Horizen adaptation of [zk-age](https://github.com/jjcav84/zk-age) —
+//! Horizen adaptation of [zk-age](https://github.com/orkid-labs/zk-age) —
 //! replaces zkVerify submission with ZEN token staking and ZenKinetic
 //! privacy gate integration.
 //!
