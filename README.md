@@ -120,3 +120,18 @@ systems.
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+---
+
+## Part of Orkid Labs
+
+**horizen-age** — Privacy-preserving age verification on Horizen Base L3 — prove 18+ without revealing a birthdate.
+
+- Install: `cargo add horizen-age`
+- Package: https://crates.io/crates/horizen-age
+- API docs: https://docs.rs/horizen-age
+- Docs: https://docs.orkidlabs.xyz/packages/horizen-age
+
+Related Orkid projects: [horizen-attest](https://github.com/orkid-labs/horizen-attest), [zenkinetic](https://github.com/orkid-labs/zenkinetic), [zk-age](https://github.com/orkid-labs/zk-age)
+
+Orkid Labs builds gasless, MEV-protected swap routing and agent-native DeFi infrastructure — [orkidlabs.xyz](https://orkidlabs.xyz) · [@orkid-labs on npm](https://www.npmjs.com/org/orkid-labs) · [github.com/orkid-labs](https://github.com/orkid-labs)
